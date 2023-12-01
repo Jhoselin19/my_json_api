@@ -1,0 +1,136 @@
+[
+    {
+      "id": "2",
+      "name": "Luxury Villa",
+      "location": "Los Angeles, USA",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Charming Cottage",
+      "location": "London, UK",
+      "image": "https://images.unsplash.com/photo-1501876725168-00c445821c9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 80
+    },
+    {
+      "id": "4",
+      "name": "Modern Loft",
+      "location": "Berlin, Germany",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 150
+    },
+    {
+      "id": "5",
+      "name": "Country House",
+      "location": "Paris, France",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 90
+    },
+    {
+      "id": "6",
+      "name": "Beach Condo",
+      "location": "Miami, USA",
+      "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 180
+    },
+    {
+      "id": "7",
+      "name": "Penthouse Suite",
+      "location": "Tokyo, Japan",
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 210
+    },
+    {
+      "id": "8",
+      "name": "Mountain Cabin",
+      "location": "Denver, USA",
+      "image": "https://images.unsplash.com/photo-1536395158483-7f2905a3f5b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 110
+    },
+    {
+      "id": "9",
+      "name": "City Center Studio",
+      "location": "Madrid, Spain",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 75
+    },
+    {
+      "id": "10",
+      "name": "Island Bungalow",
+      "location": "Bali, Indonesia",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "price": 130
+    },
+    {
+        "id": "11",
+        "name": "Rustic Farmhouse",
+        "location": "Tuscany, Italy",
+        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 95
+      },
+      {
+        "id": "12",
+        "name": "Ocean View Condo",
+        "location": "Cancun, Mexico",
+        "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 115
+      },
+      {
+        "id": "13",
+        "name": "City Apartment",
+        "location": "Tokyo, Japan",
+        "image": "https://images.unsplash.com/photo-1551334787-21e6bd3ab135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 130
+      },
+      {
+        "id": "14",
+        "name": "Mountain Lodge",
+        "location": "Zermatt, Switzerland",
+        "image": "https://images.unsplash.com/photo-1560185127-6ed189bf02fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 200
+      },
+      {
+        "id": "15",
+        "name": "Desert Villa",
+        "location": "Marrakech, Morocco",
+        "image": "https://images.unsplash.com/photo-1508772777815-0c338741e80a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 120
+      },
+      {
+        "id": "16",
+        "name": "Beach House",
+        "location": "Maldives",
+        "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 180
+      },
+      {
+        "id": "17",
+        "name": "Forest Cabin",
+        "location": "Vancouver, Canada",
+        "image": "https://images.unsplash.com/photo-1533575770077-052fa2c609fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 75
+      },
+      {
+        "id": "18",
+        "name": "City Penthouse",
+        "location": "Dubai, UAE",
+        "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 210
+      },
+      {
+        "id": "19",
+        "name": "Country Cottage",
+        "location": "Edinburgh, Scotland",
+        "image": "https://images.unsplash.com/photo-1501876725168-ac5ce068fe85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 90
+      },
+      {
+        "id": "20",
+        "name": "Island Bungalow",
+        "location": "Bora Bora, French Polynesia",
+        "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "price": 150
+      }      
+  ]
+  
